@@ -1,16 +1,13 @@
-## Hi there 👋
+# <p align="center">Chatchon Chuaderm (Che) 🌟</p>
+### <p align="center">Asst Prof (Future) · Trader · Player · Dev</p>
 
-<!--
-**chermutl/Chermutl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chermutl&label=Profile%20views&color=0e76a8&style=flat" alt="chermutl" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 I use daily : `Phone` 📱
+* 🎓 **RMUTL** : [Computer Engineering](https://www.rmutl.ac.th), `ENGCC304`, `ENGCE174`
+* 🎮 **Gamer** : [PROPLAYER VALORANT 🔥], `VALORANT`, `R6S`, `CS2`, `Apex Legends`
+* 🏀 **Hobby** : `BASKETBALL` 🏀, `Fitness`
+* 🎬 **fav. anime** : 🕵️‍♂️ `Conan`
+* 💬 **DM** : [chechatchon@gmail.com](mailto:chechatchon@gmail.com)
