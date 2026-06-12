@@ -6,8 +6,9 @@
 </p>
 
 * 📱 I use daily : `Phone` 📱
-* 🎓 **RMUTL** : [Computer Engineering](https://www.rmutl.ac.th), `ENGCC304`, `ENGCE174`
+* 🎓 **RMUTL** : [Computer Engineering](https://www.rmutl.ac.th)
 * 🎮 **Gamer** : [PROPLAYER VALORANT 🔥], `VALORANT`, `R6S`, `CS2`, `Apex Legends`
 * 🏀 **Hobby** : `BASKETBALL` 🏀, `Fitness`
 * 🎬 **fav. anime** : 🕵️‍♂️ `Conan`
 * 💬 **DM** : [chechatchon@gmail.com](mailto:chechatchon@gmail.com)
+
